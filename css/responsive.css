@@ -1,0 +1,1730 @@
+/* Medium Layout: 1367px. */
+
+
+
+
+
+@media only screen and (min-width: 1367px) and (max-width: 2000px) {
+
+
+
+.saying-partners-content-area h2 {
+  left: 15%;
+  top: 10%;
+}
+
+	.footer-two{
+		text-align:left;
+	}
+
+	.logo-footer{
+		text-align:left;
+		margin-left: 20px;
+	}
+
+	.footer-two {
+
+    margin-top: 8%;
+
+	}
+.opiniones{
+    display: flex;
+    justify-content: space-between;
+}
+.politíca_datos{
+    font-size: 11px;
+}
+
+}
+
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1367px) {
+
+.opiniones{
+    display: flex;
+    justify-content: space-between;
+}
+.politíca_datos{
+    font-size: 11px;
+}
+.saying-partners-content-area h2 {
+
+  left: 15%;
+
+  top: 10%;
+
+} 
+
+	.footer-two{
+
+		text-align:left;
+
+	}
+
+	.logo-footer{
+
+		text-align:left;
+
+		margin-left: 20px;
+
+	}
+
+	.footer-two {
+
+    margin-top: 8%;
+
+	}
+
+}
+
+
+
+
+
+/* Medium Layout: 1280px. */
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+    .opiniones{
+        display: flex;
+        justify-content: space-between;
+    }
+    .politíca_datos{
+    font-size: 11px;
+}
+    #home1_slider .nivo-caption {
+
+        left: 5%;
+
+    }
+
+    #home1_slider .cap-title {
+
+        margin: 0 0 20px;
+
+    }
+
+    #home1_slider .cap-title h2 {
+
+        font-size: 40px;
+
+        line-height: 46px;
+
+    }
+
+    #home1_slider .cap-details {
+
+        margin: 0 0 38px;
+
+    }
+
+    #home1_slider .cap-readmore a {
+
+        padding: 10px 24px;
+
+    }
+
+    .dta-tab li.active a::before {
+
+        bottom: -19px;
+
+    }
+
+    /*home 2*/
+
+    .saying-partners-area {
+
+        min-height: 409px;
+
+    }
+
+    .saying-partners-area > img {
+
+        display: none!important;
+
+    }
+
+    .saying-partners-area {
+
+        min-height: 450px;
+
+    }
+
+    .service-t-info .st-icon i {
+
+        font-size: 43px;
+
+    }
+
+    .h2-section-title {
+
+        font-size: 37px;
+
+    }
+
+    .service-t-info h3 {
+
+       margin-top: 18px;
+
+       font-size: 14px;
+
+    }
+
+    .service-t-info .st-line {
+
+        margin: 13px auto;
+
+    }
+
+
+
+    /*about-us*/
+
+    .acc-box-content {
+
+        width: 78%;
+
+    }
+
+    .search-doctor-box input[type="text"] {
+
+        width: 64%;
+
+    }
+
+    /*service-classic*/
+
+    .service-classic-tab-area .dta-tab li.active a::before {
+
+        bottom: -23px;
+
+    }
+
+    /*blog-standard*/
+
+    .blog-standard-menu .filter {
+
+        width: 14%;
+
+    }
+
+    .spwc-name {
+
+        margin: 0;
+
+    }
+
+    .flicker-widget-photo li {
+
+        width: 31%;
+
+    }
+
+    /*blog-list*/
+
+    .blc-name {
+
+        font-size: 20px;
+
+        margin: 0 0 8px;
+
+    }
+
+    .blc-text {
+
+        margin: 0 0 8px;
+
+    }
+
+    .blc-meta {
+
+        margin: 0 0 14px;
+
+        padding: 0 0 14px;
+
+    }
+
+    .blc-read-more {
+
+        line-height: 38px;
+
+        padding: 0 22px;
+
+    }
+
+	
+
+	/* Fix @jinsuasti 26/09/2017 */
+
+	.footer-top a{
+
+		font-size: 0.7em;
+
+		text-align: center;
+
+		margin-right: 20px;
+
+	}
+
+	.footer-intro ul li{
+
+		line-height: 20px;
+
+	}
+
+	.footer-two{
+
+		text-align:left;
+
+	}
+
+	.logo-footer{
+
+		text-align:left;
+
+		margin-left: 20px;
+
+	}
+
+}
+
+
+
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 1100px){
+ .accordion {
+    max-width: 1200px;
+    display: flex;
+}
+.accordion li {
+    max-width: 400px;
+	width: 100%
+}
+
+/*.accordion li .products{
+/ width: 100%;
+}
+*/
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+    .politíca_datos{
+    font-size: 11px;
+    }
+
+    #home1_slider .nivo-caption {
+
+        left: 10%;
+
+    }
+
+    #home1_slider .cap-title {
+
+        margin: 0 0 12px;
+
+    }
+
+    #home1_slider .cap-title h2 {
+
+        font-size: 36px;
+
+        line-height: 40px;
+
+    }
+
+    #home1_slider .cap-details {
+
+        margin: 0 0 44px;
+
+    }
+
+    #home1_slider .cap-readmore a {
+
+        padding: 5px 24px;
+
+    }
+
+    .top-service-area {
+
+        padding: 54px 0 25px;
+
+    }
+
+    .single-tsa {
+
+        margin: 0 0 20px;
+
+    }
+
+    .why-choose-right {
+
+        margin: 30px 0 0;
+
+    }
+
+    .dta-tab li.active a::before {
+
+        bottom: -14px;
+
+    }
+
+    .diagonstic-right {
+
+        margin: 30px 0 0;
+
+        text-align: left;
+
+    }
+
+    .footer-recent-post {
+
+        margin: 0 0 30px;
+
+    }
+
+    .meet-doctor-carousel .owl-nav .owl-prev {
+
+        left: 0;
+
+    }
+
+    .meet-doctor-carousel .owl-nav .owl-next {
+
+        right: 0;
+
+    }
+
+	
+
+	/*Fix @jinsuasti 26/09/2017 765mosque */
+
+	.footer-one{
+
+		width: 100%;
+
+		display: block;
+
+	}
+
+	.footer-two{
+
+		width: 100%;
+
+		text-align:center;
+
+	}
+
+	.footer-top-area{
+
+		padding: 90px 0 30px
+
+	}
+
+	.footer-intro{
+
+		display: block;
+
+		
+
+	}
+
+	.logo-footer{
+
+		text-align:center;
+
+	}
+
+    /*home 2*/
+
+    .h2ha-content h2 {
+
+        font-size: 32px;
+
+    }
+
+    .h2-section-title {
+
+        font-size: 28px;
+
+        margin: 0 0 2px;
+
+    }
+
+    .welcome-area {
+
+        padding: 80px 0 0;
+
+    }
+
+    .all-department {
+
+        padding-top: 80px;
+
+    }
+
+    .treatment-area {
+
+        padding-top: 80px;
+
+    }
+
+    .h2-doctor-area {
+
+        padding: 80px 0px;
+
+    }
+
+    .h2-latest-news-area {
+
+        padding: 80px 0;
+
+    }
+
+    .trusted-partners-area {
+
+        padding: 0 0 80px;
+
+    }
+
+    .t-list-item-area {
+
+        width: 50%;
+
+        margin-bottom: 20px;
+
+    }
+
+    .h2-doctor-area {
+
+        padding-bottom: 80px;
+
+        padding-top: 80px;
+
+    }
+
+    .single-h2-doctor {
+
+        margin-bottom: 20px;
+
+    }
+
+    .single-h2-doctor .h2-doctor-img img {
+
+        width: 100%;
+
+    }
+
+    .h2-consultation-area {
+
+        padding: 70px 0 31px;
+
+    }
+
+    .saying-partners-area {
+
+        min-height: 484px;
+
+    }
+
+    .saying-partners-area > img{
+
+        display: none!important;
+
+    }
+
+    .saying-partners-content-area h2 {
+
+        font-size: 32px;
+
+    }
+
+    .doctor-list {
+
+        padding: 80px 0 70px;
+
+    }
+
+    .h2-latest-news-box .h2lnb-img img {
+
+        width: 100%;
+
+    }
+
+    .h2-latest-news-box {
+
+        margin-bottom: 20px;
+
+    }
+
+    .h2-latest-news-box .h2lnb-text {
+
+        margin: 0 0 19px;
+
+    }
+
+
+
+
+
+
+
+    /*about-us*/
+
+    .about-clinic-img {
+
+        margin: 0 0 30px;
+
+        text-align: center;
+
+    }
+
+    .business-coaching-left {
+
+        text-align: center;
+
+    }
+
+    .business-coaching-right {
+
+        margin: 60px 0;
+
+    }
+
+    .search-doctor-box input[type="text"] {
+
+        width: 60%;
+
+    }
+
+    .search-doctor-box button {
+
+        margin-left: 1%;
+
+        padding: 0 20px;
+
+    }
+
+    /*service-classic*/
+
+    .service-classic-tab-area .dta-tab li.active a::before {
+
+        bottom: -17px;
+
+    }
+
+    /*service-details*/
+
+    .service-details {
+
+        margin: 60px 0 0;
+
+    }
+
+    /*doctor-details*/
+
+    .doctor-details-counter-area {
+
+        padding: 110px 0 60px;
+
+    }
+
+    .doctor-details-counter-box {
+
+        margin: 0 0 50px;
+
+    }
+
+    /*blog-standard*/
+
+    .bs-content {
+
+        padding: 0 20px 36px 40px;
+
+    }
+
+    .blog-sidebar {
+
+        margin: 60px auto auto;
+
+        width: 260px;
+
+    }
+
+    /*blog-list*/
+
+    .blc-name {
+
+        margin: 0 0 8px;
+
+    }
+
+    .blc-text {
+
+        margin: 0 0 8px;
+
+    }
+
+    .blc-meta {
+
+        margin: 0 0 12px;
+
+        padding: 0 0 12px;
+
+    }
+
+    .blc-read-more {
+
+        line-height: 38px;
+
+        padding: 0 22px;
+
+    }
+
+    /*gallery*/
+
+    #gallery_mix .mix {
+
+        width: 33%;
+
+    }
+
+}
+
+
+
+
+
+/*tab*/
+
+
+
+@media only screen and (min-width: 1023px) and (max-width: 1167px) {
+
+    /*service-classic*/
+
+    .service-classic-tab-area .dta-tab li.active a::before {
+
+        bottom: -22px;
+
+    }
+    .politíca_datos{
+    font-size: 11px;
+}
+
+}
+
+
+
+
+
+/* Mobile Layout: 320px. */
+
+
+
+@media only screen and (max-width: 767px) { 
+
+    .footer-one{
+
+		width: 100%;
+
+		display: block;
+
+	}
+
+	.footer-two{
+
+		width: 100%;
+
+		margin-top:5%;
+
+	}
+
+	}
+
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+
+    /*home*/
+
+    .top-service-area {
+
+        padding: 54px 0 25px;
+
+    }
+
+    .logo {
+
+        padding: 29px 0 21px;
+
+    }
+
+    .top-service-area {
+
+        padding: 54px 0 15px;
+
+    }
+
+    .single-tsa {
+
+        margin: 0 0 30px;
+
+    }
+
+    .make-apoinement-img {
+
+        margin: 30px 0 0;
+
+        text-align: center;
+
+    }
+
+    .single-achivement-counter {
+
+        height: 130px;
+
+        margin: 0 0 36px;
+
+        width: 50%;
+
+    }
+
+    .dta-tab li {
+
+        margin: 0 0 20px;
+
+        width: 33.33%;
+
+    }
+
+    .dta-tab li.active a::before {
+
+        bottom: -18px;
+
+    }
+
+    .footer-intro {
+
+        margin: 0 0 30px;
+
+    }
+
+    .footer-recent-post {
+
+        margin: 0 0 30px;
+
+    }
+
+    .section-title::after {
+
+        height: 50px;
+
+        width: 100%;
+
+    }
+
+    .meet-doctor-carousel .owl-nav > div {
+
+        display: none;
+
+    }
+
+	
+
+	/* Fix by user @jinsuasti 22-09-2017 */
+
+	/* Fix 26-09-2017 */
+
+	.opiniones{
+		display: block;
+	}
+	
+	.footer-one{
+
+		width: 100%;
+
+		display: block;
+
+	}
+
+	.footer-two{
+
+		width: 100%;
+
+		margin-top:5%;
+
+	}
+
+	
+
+	.footer-intro {
+
+		display: block;
+
+	}
+
+	.logo-footer{
+
+		display: block;
+
+	}
+
+	.footer-top{
+
+		display: none;
+
+	}
+
+    /*home 2*/
+
+    .h2ha-content {
+
+        left: 38%;
+
+    }
+
+    .h2ha-content h2 {
+
+        font-size: 21px;
+
+        line-height: 29px;
+
+    }
+
+    .h2ha-content > p {
+
+        display: none;
+
+    }
+
+    .h2ha-content > a {
+
+        font-size: 15px;
+
+        font-weight: 600;
+
+        padding: 5px 21px;
+
+    }
+
+    .welcome-area {
+
+        padding: 60px 0 0;
+
+    }
+
+    .wac-title {
+
+        font-size: 18px;
+
+        line-height: 26px;
+
+        margin: 0 0 16px;
+
+    }
+
+    .welcome-area-content ul {
+
+        padding: 0 0 0 14px;
+
+    }
+
+    .welcome-area-content ul li i {
+
+        margin-right: 7px;
+
+    }
+
+    .welcome-area-content ul li {
+
+        line-height: 19px;
+
+        margin-bottom: 11px;
+
+    }
+
+    .welcolme-banner {
+
+        display: none;
+
+    }
+
+    .welcome-bottom {
+
+        padding: 16px;
+
+        margin-top: 25px;
+
+    }
+
+    .welcome-bottom p {
+
+        padding-left: 56px;
+
+        font-size: 15px;
+
+        line-height: 20px;
+
+    }
+
+    .welcome-bottom p::before {
+
+        font-size: 37px;
+
+        left: 5px;
+
+    }
+
+    .welcome-bottom p a {
+
+        font-size: 16px;
+
+    }
+
+    .all-department {
+
+        padding-top: 60px;
+
+    }
+
+    .h2-section-title {
+
+        font-size: 23px;
+
+        line-height: 32px;
+
+        margin: 0 0 5px;
+
+    }
+
+    .h2-section-title-text {
+
+        font-size: 16px;
+
+        line-height: 20px;
+
+    }
+
+    .h2-doctor-area-head {
+
+        margin: 0 0 36px;
+
+    }
+
+    .single-h2-doctor {
+
+        margin-bottom: 20px;
+
+    }
+
+    .treatment-area {
+
+        padding-top: 60px;
+
+    }
+
+    .t-list-item-area {
+
+        width: 50%;
+
+        margin-bottom: 20px;
+
+    }
+
+    .h2-doctor-area {
+
+        padding: 60px 0px;
+
+    }
+
+    .single-h2-doctor .h2-doctor-img img {
+
+        width: 100%;
+
+    }
+
+    .doctor-list {
+
+        padding: 60px 0px;
+
+    }
+
+    .h2-consultation-area {
+
+        padding: 60px 0 31px;
+
+    }
+
+    .h2-latest-news-area {
+
+        padding: 60px 0;
+
+    }
+
+    .h2-latest-news-head {
+
+        margin: 0 0 30px;
+
+    }
+
+    .h2-latest-news-box {
+
+        margin-bottom: 30px;
+
+    }
+
+    .h2-latest-news-box .h2lnb-img img {
+
+        width: 100%;
+
+    }
+
+    .h2-latest-news-box .h2lnb-text {
+
+        margin: 0 0 18px;
+
+    }
+
+    .saying-partners-area > img {
+
+        display: none !important;
+
+    }
+
+    .saying-partners-area{
+
+        min-height: 622px;
+
+    }
+
+    .saying-partners-carousel .owl-nav > div{
+
+        display: none;
+
+    }
+
+    .trusted-partners-area {
+
+        padding: 0 0 60px;
+
+    }
+
+    .h2gmap-float {
+
+        left: 17%;
+
+        padding: 17px 15px 9px 105px;
+
+    }
+
+    .medical-icon {
+
+        left: -35px;
+
+        top: -35px;
+
+        height: 120px;
+
+        width: 120px;
+
+        border: 7px solid white;
+
+        padding: 12px;
+
+    }
+
+    .medical-icon i {
+
+        font-size: 48px;
+
+        line-height: 71px;
+
+    }
+
+    .footer-top-area {
+
+        padding: 60px 0px;
+
+    }
+
+    /*about-us*/
+
+    .acc-box .acc-box-icon {
+
+        float: none;
+
+        margin: auto;
+
+    }
+
+    .acc-box-content {
+
+        float: none;
+
+        margin: 30px 0 0;
+
+        padding-left: 0;
+
+        width: 100%;
+
+    }
+
+    .bcc-box {
+
+        margin: 0 0 20px;
+
+    }
+
+    .business-coaching-right {
+
+        margin: 60px 0 50px;
+
+    }
+
+    .student-say-content {
+
+        margin: 0 0 30px;
+
+    }
+
+    .student-carousel .owl-dots {
+
+        display: none;
+
+    }
+
+    .search-doctor-box input[type="text"] {
+
+        width: 65%;
+
+    }
+
+    .search-doctor-content {
+
+        margin: 0 0 20px;
+
+    }
+
+    /*service-details*/
+
+    .service-details {
+
+        margin: 60px 0 0;
+
+    }
+
+    /*doctor-style-2*/
+
+    .docotor-style2-img {
+
+        margin: 0 0 30px;
+
+        width: 100%;
+
+    }
+
+    .doctor-style2-content {
+
+        padding-left: 0;
+
+        width: 100%;
+
+    }
+
+    /*doctor-details*/
+
+    .doctor-details-counter-area {
+
+        padding: 110px 0 70px;
+
+    }
+
+    .doctor-details-counter-box {
+
+        margin: 0 0 40px;
+
+    }
+
+    /*blog-standard*/
+
+    .bs-content {
+
+        padding: 0 15px 20px 20px;
+
+    }
+
+    .blog-sidebar {
+
+        margin: 60px auto auto;
+
+        width: 260px;
+
+    }
+
+    /*blog-list*/
+
+    .blog-list-img {
+
+        margin: 0 0 30px;
+
+    }
+
+    /*gallery*/
+
+    #gallery_mix .mix {
+
+        width: 50%;
+
+    }
+
+    /*contact*/
+
+    .get-touch-area {
+
+        margin: 0 0 30px;
+
+    }
+
+}
+
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+
+
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+
+    /*home*/
+	.content-header{
+		display:block;
+	}
+	
+	.title-site{
+		padding-bottom: 10px;
+	}
+    .top-service-area {
+        padding: 54px 0 25px;
+    }
+    .logo {
+        padding: 15px;
+    }
+	.logo img {
+        width: 160px;
+		height: 150px;
+    }
+    .htl-reservation {
+        font-size: 14px;
+    }
+    .header-top-right {
+        text-align: left;
+    }
+    #home1_slider .nivo-directionNav > a {
+        display: none;
+    }
+    .single-tsa {
+        margin: 0 0 20px;
+    }
+    .make-apoinement-img {
+        margin: 30px 0 0;
+    }
+    .section-title::after {
+        width: 100%;
+    }
+    .single-achivement-counter {
+        width: 100%;
+    }
+    .meet-doctor-carousel .owl-nav > div {
+        display: none;
+    }
+    .department-tab-area {
+        padding: 0 20px 65px;
+    }
+    .dta-tab li {
+        width: 50%;
+    }
+    .dta-tab li.active a::before {
+        display: none;
+    }
+    .latest-post-area {
+        padding: 35px 0 60px;
+    }
+    .single-latest-post {
+        margin: 0 0 30px;
+    }
+    .footer-intro {
+        margin: 0 0 30px;
+    }
+    .footer-recent-post {
+        margin: 0 0 30px;
+    }
+    .go-to-top {
+        display: block;
+        float: none;
+        margin: 15px 0 0;
+        text-align: center;
+    }
+
+    /*home 2*/
+    .h2ha-content {
+       left: 38%;
+    }
+    .h2ha-content h2 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 13px;
+    }
+    .h2ha-content > p {
+        display: none;
+    }
+    .h2ha-content > a {
+        font-size: 15px;
+        font-weight: 600;
+        padding: 5px 21px;
+    }
+    .welcome-area {
+        padding: 40px 0 0;
+    }
+    .wac-title {
+        font-size: 18px;
+        line-height: 26px;
+        margin: 0 0 16px;
+    }
+    .welcome-area-content ul {
+        padding: 0 0 0 14px;
+    }
+    .welcome-area-content ul li i {
+        margin-right: 7px;
+
+    }
+    .welcome-area-content ul li {
+        line-height: 19px;
+        margin-bottom: 11px;
+    }
+    .welcolme-banner {
+        display: none;
+    }
+    .welcome-bottom {
+        padding: 16px;
+        margin-top: 25px;
+    }
+    .welcome-bottom p {
+        padding-left: 56px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .welcome-bottom p::before {
+        font-size: 37px;
+        left: 5px;
+    }
+    .welcome-bottom p a {
+        font-size: 16px;
+    }
+    .all-department {
+        padding-top: 40px;
+    }
+    h2.h2-section-title {
+        font-size: 19px;
+        line-height: 24px;
+    }
+    .h2-section-title-text {
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .h2-doctor-area-head {
+        margin: 0 0 35px;
+    }
+    .treatment-area {
+        padding-top: 40px;
+    }
+    .t-list-item-area {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .h2-doctor-area {
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+    .h2-doctor-area-head p.doctor-sm-title {
+        color: #3d3d3d;
+        font-size: 13px;
+        font-weight: 400;
+    }
+    .single-h2-doctor {
+        margin-bottom: 30px;
+    }
+    .doctor-list {
+        padding: 40px 0 40px;
+    }
+    .h2-consultation-area {
+        padding: 40px 0 26px;
+    }
+    .saying-partners-carousel .owl-nav > div {
+        display: none;
+    }
+    .single-h2-doctor .h2-doctor-img img {
+        width: 100%;
+    }
+    .saying-partners-text p {
+        font-size: 4px;
+        line-height: 6px;
+    }
+    .saying-partners-area {
+        height: 250px;
+        width: 100%;
+    }
+    .saying-partners-area img {
+        display: none!important;
+    }
+    .saying-partners-content-area {
+        position: initial;
+    }
+    .saying-partners-text h4 {
+        font-size: 14px;
+    }
+    .saying-partners-text h4::before {
+        right: 0;
+        font-size: 32px;
+        top: 4px;
+    }
+    .h2-latest-news-area {
+        padding: 40px 0;
+    }
+    .h2-latest-news-head {
+        margin: 0 0 30px;
+    }
+    .h2-latest-news-box .h2lnb-title {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .h2-latest-news-box .h2lnb-content-meta ul li{
+        font-size: 13px;
+    }
+    .h2-latest-news-box .h2lnb-text {
+        margin: 0 0 20px;
+        font-size: 13px;
+    }
+    .h2-latest-news-box .h2lnb-img img {
+        width: 100%;
+    }
+    .h2-latest-news-box .h2lnb-content {
+        margin-bottom: 30px;
+
+    }
+    .trusted-partners-head {
+        margin: 0 0 30px;
+        text-align: center;
+    }
+    .trusted-partners-area {
+        padding: 0 0 40px;
+    }
+    .medical-icon {
+        left: -20px;
+        top: -20px;
+        height: 90px;
+        width: 90px;
+        border: 5px solid white;
+        padding: 8px;
+    }
+    .h2gmap-float {
+        left: 48%;
+        top: 50%;
+        padding: 15px 15px 15px 76px;
+        transform: translate(-50%, -50%);
+        width: 79%;
+    }
+    .h2gmap-float > ul li {
+        font-size: 11px;
+        line-height: 15px;
+        margin-bottom: 11px;
+    }
+    .h2gmap-float > ul li i {
+        margin-right: 6px;
+        font-size: 12px;
+    }
+    .h2gmap-float > h4 {
+        font-size: 17px;
+        line-height: 20px;
+        margin: 0 0 12px;
+    }
+    #h2googleMap {
+        height: 330px;
+    }
+    .medical-icon i {
+        font-size: 43px;
+        line-height: 52px;
+    }
+    .footer-top-area {
+        background: #f7f7f7 none repeat scroll 0 0;
+        padding: 40px 0 40px;
+    }
+    .footer-intro img {
+        width: 150px;
+    }
+    .footer-intro p {
+        font-size: 13px;
+    }
+    .footer-intro ul li {
+        font-size: 13px;
+        line-height: 20px;
+        margin: 0 0 6px;
+    }
+    .footer-intro .widget_wysija_cont #mce-EMAIL {
+        width: 100%;
+    }
+    .footer-intro .widget_wysija_cont #mc-embedded-subscribe {
+        right: 4px;
+    }
+    .footer-title {
+        font-size: 19px;
+    }
+    .single-frp {
+        padding: 19px 0;
+    }
+    .frp-content h4 {
+        font-size: 15px;
+    }
+    .frp-content span {
+        font-size: 13px;
+    }
+    .frp-content a {
+        font-size: 13px;
+        line-height: 16px;	
+    }
+
+	/* Fix by user @jinsuasti 22-09-2017 */
+	.opiniones{
+		display: block;
+	}
+	
+	.footer-intro {
+		display: block;
+	}
+	.logo-footer{
+		display: block;
+	}
+	.footer-top{
+		display: none;
+	}
+	.title-site a{
+	 padding-left: 15px;
+	 font-size: 0.8em;
+     font-weight: 500;
+	}
+	.title-logo{
+	text-align:center;
+	line-height: 30px;
+	}
+    /*about-us*/
+    .acc-box .acc-box-icon {
+        float: none;
+        margin: auto;
+    }
+    .acc-box-content {
+        float: none;
+        margin: 30px 0 0;
+        padding-left: 0;
+        width: 100%;
+    }
+    .bcc-box {
+        margin: 0 0 20px;
+    }
+    .business-coaching-right {
+        margin: 60px 0 50px;
+    }
+    .student-say-content {
+        margin: 0 0 30px;
+    }
+    .student-carousel .owl-dots {
+        display: none;
+    }
+    .search-doctor-box input[type="text"] {
+        margin: 0 0 15px;
+        width: 100%;
+    }
+    .search-doctor-box button {
+        float: right;
+    }
+    .search-doctor-content {
+        margin: 0 0 20px;
+    }
+    /*service-details*/
+    .service-details {
+        margin: 60px 0 0;
+    }
+    /*doctor-style-2*/
+    .docotor-style2-img {
+        margin: 0 0 30px;
+        width: 100%;
+    }
+    .doctor-style2-content {
+        padding-left: 0;
+        width: 100%;
+    }
+    /*doctor-details*/
+    .doctor-details-counter-area {
+        padding: 110px 0 70px;
+    }
+    .doctor-details-counter-box {
+        margin: 0 0 40px;
+    }
+    /*blog-standard*/
+    .blog-standard-menu .filter {
+        width: 48%;
+    }
+    #blog_standard_mix .mix {
+        width: 100%;
+    }
+    .blog-sidebar {
+        margin: 60px 0 0;
+    }
+    /*blog-list*/
+    .blog-list-img {
+        margin: 0 0 30px;
+    }
+    /*gallery*/
+    #gallery_mix .mix {
+        width: 100%;
+    }
+    /*contact*/
+    .get-touch-area {
+        margin: 0 0 30px;
+    }
+    /*blog-post*/
+    .blog-post-social {
+        float: none;
+        margin: 20px 0 0;
+    }
+    .blog-post-tags ul li {
+       margin: 0 0 10px;
+    }
+    .sbpc-img {
+        width: 22%;
+    }
+    .sbpc-content {
+        padding-left: 8px;
+        width: 78%;
+    }
+    .single-blog-post-comment.sbpc-reply {
+        margin: 0 0 61px 30px;
+    }
+    .also-like-head::after {
+        display: none;
+    }
+}
+

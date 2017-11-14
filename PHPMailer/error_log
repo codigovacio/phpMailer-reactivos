@@ -1,0 +1,20 @@
+[08-Nov-2017 04:09:42 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'SMTP Error: Could not connect to SMTP host.' in /home/reactivo/public_html/PHPMailer/class.phpmailer.php:820
+Stack trace:
+#0 /home/reactivo/public_html/PHPMailer/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/reactivo/public_html/PHPMailer/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Wed, 8 No...', '\nName: sdds\nEma...')
+#2 /home/reactivo/public_html/PHPMailer/enviar.php(44): PHPMailer->Send()
+#3 {main}
+  thrown in /home/reactivo/public_html/PHPMailer/class.phpmailer.php on line 820
+[08-Nov-2017 04:09:49 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/reactivo/public_html/PHPMailer/class.phpmailer.php:462
+Stack trace:
+#0 /home/reactivo/public_html/PHPMailer/class.phpmailer.php(408): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home/reactivo/public_html/PHPMailer/enviar.php(29): PHPMailer->AddAddress(NULL)
+#2 {main}
+  thrown in /home/reactivo/public_html/PHPMailer/class.phpmailer.php on line 462
+[08-Nov-2017 04:14:08 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'SMTP Error: Could not connect to SMTP host.' in /home/reactivo/public_html/PHPMailer/class.phpmailer.php:820
+Stack trace:
+#0 /home/reactivo/public_html/PHPMailer/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/reactivo/public_html/PHPMailer/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Wed, 8 No...', '\nName: fsdfsd\nE...')
+#2 /home/reactivo/public_html/PHPMailer/enviar.php(44): PHPMailer->Send()
+#3 {main}
+  thrown in /home/reactivo/public_html/PHPMailer/class.phpmailer.php on line 820
